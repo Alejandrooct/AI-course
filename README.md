@@ -11,8 +11,8 @@ Week 1  Day #1  Sunday November 26, Using ChatGPT to write python code (small im
 Week 1  Day #2  Wednesday November 29, Using ChatGPT to write python code (centigrade to Farenheit prediction using 1 neuron NN), using Keras python library
 
 Week 2  Day #3  Sunday December 3, A - mnist clothing set, using tensorflow python library (sequential NN with 3 levels)
+
                                    B - drone data preprocessing
-                                              
                                                 
 Week 2  Day #4  Wednesday December 6,
 
